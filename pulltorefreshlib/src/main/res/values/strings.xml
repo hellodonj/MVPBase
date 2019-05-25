@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">PullToRefreshView</string>
+
+    <!-- pulltorefresh -->
+    <string name="pullToRefreshPullLabel_custom_str">下拉刷新</string>
+    <string name="pullToRefreshFooterPullLabel_custom_str">上拉加载更多</string>
+    <string name="pullToRefreshReleaseLabel_custom_str">松开后刷新</string>
+    <string name="pullToRefreshFooterReleaseLabel_custom_str">松开后加载</string>
+    <string name="pullToRefreshRefreshingLabel_custom_str">刷新\u2026</string>
+    <string name="pullToRefreshFooterRefreshingLabel_custom_str">加载中\u2026</string>
+
+    <string name="label_update_time">最后更新：</string>
+    <string name="cancel">取消</string>
+    <string name="setting">设置</string>
+    <string name="notifyTitle">权限设置</string>
+    <string name="notifyMsg">您需要这些权限。</string>
+</resources>
